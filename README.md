@@ -6,13 +6,6 @@
 
 <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="30%" src="https://raw.githubusercontent.com/Ayhuuu/Discord-Voice-Join---Spam/main/img/img3.gif?token=GHSAT0AAAAAACDGSRQTOBD2ZEVYYRFRIO7GZELI7MA"></img>
 
-## Setup:
-
-> Open `install.bat` to download modules
-
-> Put your tokens in `Tokens.txt`
-
-> Open `start.bat` to run the program
 
 ## Setup:
 
