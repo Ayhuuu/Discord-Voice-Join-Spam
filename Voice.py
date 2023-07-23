@@ -54,10 +54,10 @@ Write.Print("\n> 3 - exit ", Colors.red_to_yellow)
 
 
 
-aşkım = int(input("\nchoice: "))
+askim = int(input("\nchoice: "))
 
 
-if aşkım == 1:
+if askim == 1:
     print("Don't forget to put your tokens in Tokens.txt")
 
     with open("tokens.txt", "r") as token_file:
@@ -88,7 +88,7 @@ if aşkım == 1:
 
     asyncio.run(main())
 
-elif aşkım == 2:
+elif askim == 2:
     print("Don't forget to put your tokens in Tokens.txt")
 
     tokenlist = open("tokens.txt", 'r').read().splitlines()
@@ -145,7 +145,7 @@ elif aşkım == 2:
         
         sleep(random.uniform(0.1, 0.1))
 
-elif aşkım == 3:
+elif askim == 3:
     print("Exiting the program...")
 else:
     print("You have entered invalid. Please try again.")
