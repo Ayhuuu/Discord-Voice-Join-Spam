@@ -94,7 +94,7 @@ elif askim == 2:
     tokenlist = open("tokens.txt", 'r').read().splitlines()
     server = int(input("Server ID: "))
     channel = int(input("Channel ID: "))
-    deaf = input("Defean: (y/n) ")
+    deaf = input("Deafen: (y/n) ")
     if deaf == "y":
         deaf = True
     if deaf == "n":
